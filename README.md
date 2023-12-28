@@ -6,7 +6,6 @@
   <p align="center">
     <br />
     <a href="">View Demo</a>
-    ·
       <p>Technologies Used - javascript , tailwind 
         <br/>
         <br/>
