@@ -7,10 +7,6 @@
     <br />
     <a href="">View Demo</a>
     ·
-    <a href="">Report Bug</a>
-    ·
-    <a href="">Request Feature</a>
-    .
       <p>Technologies Used - javascript , tailwind 
         <br/>
         <br/>
