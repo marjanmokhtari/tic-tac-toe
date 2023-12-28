@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: googlefont;
+    src: url(../font/ShadowsIntoLight-Regular.ttf);
+}
+body{
+    font-family: googlefont;
+    /* font-family: Pacifico, cursive; */
+
+ 
+
+}
+#txt{
+    text-shadow: 2px 2px 30px black;
+
+}
+.boxgame,.boxone,.equalbx{
+    box-shadow: 5px 8px 4px#1b6b43e1;
+
+}
+.boxone{
+    transition: .6s;
+}
+.boxgame{
+    transition: 1.2s;
+}
+.allcell:hover{
+    background-color: #42a373;
+}
+.mypaly{
+    box-shadow: 5px 4px rgb(29, 29, 29);
+
+}
